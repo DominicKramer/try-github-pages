@@ -1,6 +1,7 @@
 This is some text
 ```
-A:
-. B:
-  . C:
+Result:
+. for: x
+  where: 'something'
+  then: "something something"
 ```
